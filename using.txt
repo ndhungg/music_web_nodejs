@@ -1,0 +1,23 @@
++, Link github: https://github.com/ndhungg/music_web_nodejs.git
+
++ Install Node 
+    - Download với từ khóa nodejs.org và lựa chọn phiên bản phù hợp với hệ điều Hành
+
++, Khởi tạo dự án và cài đặt các Dependence(phụ thuộc)
+    - npm init (khởi tạo base dự án)
+
++ Install ExpressJS
+    - npm install express
+
++ Install Nodemon & inspector : Lắng nghe sự thay đổi của file, tự động restart lại sever, debug nhanh và hiệu quả
+    - npm install nodemon --save-dev : cài thư viện vào modul của dự án
+    - npm install -g nodemon  : cài trự tiếp global computer
+
++ Install Morgan : Quan sát các Logger được Requests từ Client lên Server
+    - npm install morgan --save-dev
+
++ Template engine : Handlebars
+    - npm install express-handlebars
+
++ Tìm hiểu thêm dark-sass thay đổi file .css từ bên Folder scss
+    
