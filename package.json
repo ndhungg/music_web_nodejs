@@ -1,0 +1,26 @@
+{
+  "name": "music_web_nodejs",
+  "version": "1.0.0",
+  "description": "music_web_nodejs music_brain",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndhungg/music_web_nodejs.git"
+  },
+  "author": "hungnd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndhungg/music_web_nodejs/issues"
+  },
+  "homepage": "https://github.com/ndhungg/music_web_nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
